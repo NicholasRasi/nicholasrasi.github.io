@@ -1,0 +1,8 @@
+{% assign tags = site.tags | sort %}
+<ul class="tags-list">
+  {% for tag in tags %}
+   <li>
+      <a href="/tag/{{ tag | first | slugify }}/">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})</a>
+  </li>
+  {% endfor %}
+</ul>

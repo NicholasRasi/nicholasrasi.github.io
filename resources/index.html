@@ -1,0 +1,48 @@
+---
+layout: default
+title: Resources
+pagination: 
+  enabled: true
+---
+
+{% if paginator.page == 1 %}
+  <article role="article" class="post" style="margin-bottom: 1rem;">
+    <h2>Resources</h2>
+    Here you find articles, repositories, books and everything that I found interesting.
+    {% include tag.html %}
+  </article>
+{% endif %}
+
+
+<div class="grid">
+  {% for post in paginator.posts %}
+    <a href="{{ site.baseurl }}{{ post.url }}" target="_blank">
+      <article role="article" class="card">
+        <!--<div class="post-image" style="background-image: url({{post.img}});"></div>-->
+  	    <div class="meta">
+        <h2>
+          {{ post.title }}
+        </h2>
+        <p>{{ post.summary }}</p>
+          <time class="date"><span class="project-tags">#{{ post.tags | join: ", #"  }}</span></time> 
+  	    </div>
+      </article>
+    </a>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+  <ul class="pager">
+      {% if paginator.next_page %}
+      <li class="next">
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">&larr; Older</a>
+      </li>
+      {% endif %}
+      {% if paginator.previous_page %}
+      <li class="previous">
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer &rarr;</a>
+      </li>
+      {% endif %}
+  </ul>
+{% endif %}
+

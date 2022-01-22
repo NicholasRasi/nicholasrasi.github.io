@@ -1,0 +1,92 @@
+site: Nicholas Rasi
+url: 
+author: Nicholas
+author:
+  name: Nicholas
+  email: 
+  url: 
+  avatar: 
+title: Nicholas Rasi
+description: Nicholas Rasi - Hello 👋! 
+logo: 
+image: 
+twitter:  
+social:
+  name:
+  links:
+    - https://twitter.com/#
+    - https://www.dribbble.com/#
+    - https://github.com/#
+    - https://codepen.io/#
+  
+permalink: pretty
+
+baseurl:             ""
+
+include:
+  - _redirects
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:slug
+  projects:
+    output: true
+    permalink: /projects/:slug
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"     
+      
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
+
+paginate: 5
+paginate_path: "/resources/:num"
+
+# pagination-v2
+#pagination:
+#  enabled: true
+#  per_page: 5
+#  permalink: '/page/:num/'
+

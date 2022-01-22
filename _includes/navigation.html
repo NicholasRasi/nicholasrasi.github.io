@@ -1,0 +1,12 @@
+<nav role="navigation">
+  <ul>
+    <li><a href="/" {% if page.url == "/" %}class="active"{% endif %}>About</a></li>
+    <!-- <li><a href="/tags" {% if page.url == "/tags" %}class="active"{% endif %}>Tags</a></li> -->
+    <li><a href="/projects" {% if page.url == "/projects" %}class="active"{% endif %}>Projects</a></li>
+    <li><a href="/resources" {% if page.url == "/resources/" %}class="active"{% endif %}>Resources</a></li>
+    <li><a href="/reading-list" {% if page.url == "/reading-list" %}class="active"{% endif %}>Reading List</a></li>
+    <li><a href="/contact" {% if page.url == "/contact" %}class="active"{% endif %}>Contact</a></li>
+    <li><a href="https://github.com/NicholasRasi" target="_blank">GH</a></li>
+    <!--<li><a href="/atom.xml">Feed</a></li>-->
+  </ul>
+</nav>

@@ -1,0 +1,5 @@
+@import url('https://rsms.me/inter/inter.css');
+html { font-family: 'IBM Plex Sans Thai Looped', sans-serif; font-display: swap; }
+@supports (font-variation-settings: normal) {
+  html { font-family: 'IBM Plex Sans Thai Looped', sans-serif; }
+}
