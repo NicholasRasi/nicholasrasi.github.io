@@ -7,8 +7,8 @@ categories: ["Machine Learning"]
 tags: ["TensorFlow", "Flask", "Python"]
 ---
 
-<a target="_blank" class="repolink" href="https://github.com/NicholasRasi/SelfAdaptive-FedML">› Repository ‹</a> - 
-<a target="_new" class="repolink" href="https://doi.ieeecomputersociety.org/10.1109/SEAMS51251.2021.00016">› Paper ‹</a>
+<a target="_blank" class="repolink" href="https://github.com/NicholasRasi/SelfAdaptive-FedML">Repository</a> | 
+<a target="_new" class="repolink" href="https://doi.ieeecomputersociety.org/10.1109/SEAMS51251.2021.00016">Paper</a>
 
 ### Why Federated Learning?
 Machine Learning (ML) enables the creation of a new generation of applications that “learn” from collected data, transferred and analyzed on centralized servers. Moving data may imply a significant overhead and may also undermine users' privacy.

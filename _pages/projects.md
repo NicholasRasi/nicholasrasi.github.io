@@ -8,7 +8,7 @@ title: Projects
 Here are a list of my projects, but the complete list can be found on the [Projects List](/projects-list) page.
 
 - [Research Projects](#research-projects)
-- [Websites](#websites)
+- [Web Development](#web-development)
 - [Web Applications](#web-applications)
 - [Android Applications](#android-applications)
 
@@ -19,33 +19,32 @@ During my experience at Polimi I have worked on several research projects. I hav
 
 I contributed, together with my colleagues, to the writing and revision of scientific papers, some of which have been published.
 
-
-- [Federated Machine Learning Framework](/projects/self-adaptive-fedml):
+- [Federated Machine Learning Framework](/projects/self-adaptive-fedml)
 	- Federated Machine Learning as a Self-Adaptive Problem
 	- prototype built with Python
 	- self-adaptive algorithms
 	- published work at SEAMS
-- [ROMA](/projects/roma):
+- [ROMA](/projects/roma)
 	- resources management for TensorFlow inference
 	- K8s + Docker + Docker out of Docker + TensorFlow
 	- heterogeneous resources (CPU + GPU) allocation
 	- self adaptive system with control theory
 	- published work ad ICSOC
-- [ROMA Cluster Init](/projects/roma-cluster-init):
-	- K8s cluster initialization for running [ROMA](/projects/ROMA)
+- [ROMA Cluster Init](/projects/roma-cluster-init)
+	- K8s cluster initialization for running [ROMA](/projects/ROMA)	
 	- developed with Ansible and Terraform
-- [VMBS-tool](/projects/vmbs-tool):
+- [VMBS-tool](/projects/vmbs-tool)
 	- benchmark system for VMs hosted on cloud provider
 	- performance variability study
 	- data cleaning and parsing with Pandas and Jupyter Notebooks
 	- online results viewer
-- [Slurm Cluster TODO CHANGE MEEE](/projects/slurm-cluster):
+- [Containers Comparison and Benchmarking](/projects/containers-comparison-and-benchmarking)
 	- Slurm cluster initialization with MPI benchmark for containers
 	- Ansible playbooks
 	- execution on MPI benchmarks and results analysis
 
 
-### Websites
+### Web Development
 I have collaborated with many clients to the design development and management of websites. In these projects I mainly use WordPress, HTML, CSS, Javascript and PHP.
 My portfolio is available at [makeb.it](https://makeb.it/){:target="_blank"}.
 
@@ -67,7 +66,7 @@ My portfolio is available at [makeb.it](https://makeb.it/){:target="_blank"}.
 	- AmenoBlues website
 
 ### Web Applications
-- [Flipboook](/projects/flipboook):
+- [Flipboook](/projects/flipboook)
 	- an online magazine viewer
 	- Backend (ExpressJS) + Frontend dashboard (React) + Frontend viewer (HTML + CSS + Javascript)
 - [GenM3U](/projects/genm3u)

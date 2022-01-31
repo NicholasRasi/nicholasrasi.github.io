@@ -7,8 +7,8 @@ categories: ["IaaC"]
 tags: ["Ansible", "Terraform", "Bash", "Kubernetes"]
 ---
 
-<a target="_blank" class="repolink" href="https://github.com/NicholasRasi/ROMA2-ClusterInit">› Repository ‹</a> - 
-<a target="_blank" class="repolink" href="https://doi.org/10.1007/978-3-030-91431-8_15">› Paper ‹</a>
+<a target="_blank" class="repolink" href="https://github.com/NicholasRasi/ROMA2-ClusterInit">Repository</a> | 
+<a target="_blank" class="repolink" href="https://doi.org/10.1007/978-3-030-91431-8_15">Paper</a>
 
 ### What is ROMA?
 **TensorFlow**, a popular machine learning (ML) platform, allows users to transparently exploit both GPUs and CPUs to run their applications. 

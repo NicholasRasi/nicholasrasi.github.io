@@ -7,7 +7,7 @@ categories: ["Mobile Application"]
 tags: ["Android", "Java"]
 ---
 
-<a target="_blank" class="repolink" href="https://makeb.it/static/telecomando-presentazioni/en/">› Project Page ‹</a>
+<a target="_blank" class="repolink" href="https://makeb.it/static/telecomando-presentazioni/en/">Project Page</a>
 
 - Android App used as a remote controller for slides
 - multi platform **Java** server
