@@ -3,8 +3,7 @@ layout: page
 title: About
 ---
 
-## Hello there! 👋
-I'm Nicholas Rasi
+## Hello there! 👋 I'm Nicholas Rasi
 
 #### Just a brief recap...
 
