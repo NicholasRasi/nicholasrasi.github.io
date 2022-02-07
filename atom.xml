@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Nicholas Rasi</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2022-02-07T17:48:27+00:00</updated>
+ <id></id>
+ <author>
+   <name>Nicholas</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Software architecture patterns</title>
+   <link href="/2022/software-architecture-patterns"/>
+   <updated>2022-01-31T00:00:00+00:00</updated>
+   <id>/2022/software-architecture-patterns</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Privacy Report: What Android Does In The Background</title>
+   <link href="/2022/privacy-report-what-android-does-in-the-background"/>
+   <updated>2022-01-30T00:00:00+00:00</updated>
+   <id>/2022/privacy-report-what-android-does-in-the-background</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Comparing Serverless and Containers: Which is Best?</title>
+   <link href="/2022/comparing-serverless-and-containers-which-is-best"/>
+   <updated>2022-01-29T00:00:00+00:00</updated>
+   <id>/2022/comparing-serverless-and-containers-which-is-best</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>GitHub - python-engineer/ml-study-plan: The Ultimate FREE Machine Learning Study Plan</title>
+   <link href="/2022/github-pythonengineermlstudyplan-the-ultimate-free-machine-learning-study-plan"/>
+   <updated>2022-01-28T00:00:00+00:00</updated>
+   <id>/2022/github-pythonengineermlstudyplan-the-ultimate-free-machine-learning-study-plan</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Containers and HPC: Mutually Beneficial</title>
+   <link href="/2022/containers-and-hpc-mutually-beneficial"/>
+   <updated>2022-01-27T00:00:00+00:00</updated>
+   <id>/2022/containers-and-hpc-mutually-beneficial</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Unikernels Use Cases: IoT, the Cloud and More</title>
+   <link href="/2022/unikernels-use-cases-iot-the-cloud-and-more"/>
+   <updated>2022-01-26T00:00:00+00:00</updated>
+   <id>/2022/unikernels-use-cases-iot-the-cloud-and-more</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Containers vs. Unikernels: An Apples-to-Oranges Comparison</title>
+   <link href="/2022/containers-vs-unikernels-an-applestooranges-comparison"/>
+   <updated>2022-01-25T00:00:00+00:00</updated>
+   <id>/2022/containers-vs-unikernels-an-applestooranges-comparison</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>GitHub - NVIDIA/hpc-container-maker: HPC Container Maker</title>
+   <link href="/2022/github-nvidiahpccontainermaker-hpc-container-maker"/>
+   <updated>2022-01-24T00:00:00+00:00</updated>
+   <id>/2022/github-nvidiahpccontainermaker-hpc-container-maker</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Containers, meet HPC</title>
+   <link href="/2022/containers-meet-hpc"/>
+   <updated>2022-01-23T00:00:00+00:00</updated>
+   <id>/2022/containers-meet-hpc</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Why the Internet of Things Needs Docker Containers</title>
+   <link href="/2022/why-the-internet-of-things-needs-docker-containers"/>
+   <updated>2022-01-22T00:00:00+00:00</updated>
+   <id>/2022/why-the-internet-of-things-needs-docker-containers</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>EVERYTHING you NEED to know about GitHub Actions Environments</title>
+   <link href="/2022/everything-you-need-to-know-about-github-actions-environments"/>
+   <updated>2022-01-21T00:00:00+00:00</updated>
+   <id>/2022/everything-you-need-to-know-about-github-actions-environments</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>GitHub - logseq/logseq: A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap</title>
+   <link href="/2022/github-logseqlogseq-a-privacyfirst-opensource-platform-for-knowledge-management-and-collaboration-desktop"/>
+   <updated>2022-01-20T00:00:00+00:00</updated>
+   <id>/2022/github-logseqlogseq-a-privacyfirst-opensource-platform-for-knowledge-management-and-collaboration-desktop</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+
+</feed>

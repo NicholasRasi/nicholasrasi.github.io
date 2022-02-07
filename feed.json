@@ -1,0 +1,308 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Nicholas Rasi",
+    "home_page_url": "/",
+    "feed_url": "/feed.json",
+    "description": "Nicholas Rasi - Hello 👋!",
+    "icon": "/apple-touch-icon.png",
+    "favicon": "/favicon.ico",
+    "expired": false,
+    
+    "author":  {
+        "name": "Nicholas",
+        "url": null,
+        "avatar": null
+    },
+    
+"items": [
+    
+        {
+            "id": "/2022/software-architecture-patterns",
+            "title": "Software architecture patterns",
+            "summary": "Take a deep dive into several common software architecture patterns",
+            "content_text": "",
+            "content_html": "",
+            "url": "/2022/software-architecture-patterns",
+            
+            
+            
+            "tags": ["architecture","patterns"],
+            
+            "date_published": "2022-01-31T00:00:00+00:00",
+            "date_modified": "2022-01-31T00:00:00+00:00",
+            
+                "author":  {
+                "name": "Nicholas",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "/2022/privacy-report-what-android-does-in-the-background",
+            "title": "Privacy Report: What Android Does In The Background",
+            "summary": "We’ve come a long way from the Internet of the 90s and early 00s. Not just in terms of technology, capabilities, and culture, but in the attitude most of us take when accessing the ‘net…",
+            "content_text": "",
+            "content_html": "",
+            "url": "/2022/privacy-report-what-android-does-in-the-background",
+            
+            
+            
+            "tags": ["android","security"],
+            
+            "date_published": "2022-01-30T00:00:00+00:00",
+            "date_modified": "2022-01-30T00:00:00+00:00",
+            
+                "author":  {
+                "name": "Nicholas",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "/2022/comparing-serverless-and-containers-which-is-best",
+            "title": "Comparing Serverless and Containers: Which is Best?",
+            "summary": "Serverless computing is currently the hot topic in cloud technology but, as we’ve seen in the past, hype can sometimes lead to inflated expectations.",
+            "content_text": "",
+            "content_html": "",
+            "url": "/2022/comparing-serverless-and-containers-which-is-best",
+            
+            
+            
+            
+            
+            "date_published": "2022-01-29T00:00:00+00:00",
+            "date_modified": "2022-01-29T00:00:00+00:00",
+            
+                "author":  {
+                "name": "Nicholas",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "/2022/github-pythonengineermlstudyplan-the-ultimate-free-machine-learning-study-plan",
+            "title": "GitHub - python-engineer/ml-study-plan: The Ultimate FREE Machine Learning Study Plan",
+            "summary": "The Ultimate FREE Machine Learning Study Plan. Contribute to python-engineer/ml-study-plan development by creating an account on GitHub.",
+            "content_text": "",
+            "content_html": "",
+            "url": "/2022/github-pythonengineermlstudyplan-the-ultimate-free-machine-learning-study-plan",
+            
+            
+            
+            
+            
+            "date_published": "2022-01-28T00:00:00+00:00",
+            "date_modified": "2022-01-28T00:00:00+00:00",
+            
+                "author":  {
+                "name": "Nicholas",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "/2022/containers-and-hpc-mutually-beneficial",
+            "title": "Containers and HPC: Mutually Beneficial",
+            "summary": "The benefits of containers and HPC working together are many, and over time their mutually beneficial relationship will spark more benefits.",
+            "content_text": "",
+            "content_html": "",
+            "url": "/2022/containers-and-hpc-mutually-beneficial",
+            
+            
+            
+            "tags": ["containers","hpc"],
+            
+            "date_published": "2022-01-27T00:00:00+00:00",
+            "date_modified": "2022-01-27T00:00:00+00:00",
+            
+                "author":  {
+                "name": "Nicholas",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "/2022/unikernels-use-cases-iot-the-cloud-and-more",
+            "title": "Unikernels Use Cases: IoT, the Cloud and More",
+            "summary": "Unikernels may be the next big thing after Docker. Which types of use cases will unikernels support? Keep reading for an overview. A unikernel is a type",
+            "content_text": "",
+            "content_html": "",
+            "url": "/2022/unikernels-use-cases-iot-the-cloud-and-more",
+            
+            
+            
+            
+            
+            "date_published": "2022-01-26T00:00:00+00:00",
+            "date_modified": "2022-01-26T00:00:00+00:00",
+            
+                "author":  {
+                "name": "Nicholas",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "/2022/containers-vs-unikernels-an-applestooranges-comparison",
+            "title": "Containers vs. Unikernels: An Apples-to-Oranges Comparison",
+            "summary": "Unikernels are sometimes considered \"improved containers\" because of the security and performance benefits they bring. But that's incorrect.",
+            "content_text": "",
+            "content_html": "",
+            "url": "/2022/containers-vs-unikernels-an-applestooranges-comparison",
+            
+            
+            
+            "tags": ["containers","unikernels"],
+            
+            "date_published": "2022-01-25T00:00:00+00:00",
+            "date_modified": "2022-01-25T00:00:00+00:00",
+            
+                "author":  {
+                "name": "Nicholas",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "/2022/github-nvidiahpccontainermaker-hpc-container-maker",
+            "title": "GitHub - NVIDIA/hpc-container-maker: HPC Container Maker",
+            "summary": "HPC Container Maker. Contribute to NVIDIA/hpc-container-maker development by creating an account on GitHub.",
+            "content_text": "",
+            "content_html": "",
+            "url": "/2022/github-nvidiahpccontainermaker-hpc-container-maker",
+            
+            
+            
+            
+            
+            "date_published": "2022-01-24T00:00:00+00:00",
+            "date_modified": "2022-01-24T00:00:00+00:00",
+            
+                "author":  {
+                "name": "Nicholas",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "/2022/containers-meet-hpc",
+            "title": "Containers, meet HPC",
+            "summary": "Some background and speculation about the potential value and caveats of using containers in a High-Performance Computing (HPC) context…",
+            "content_text": "",
+            "content_html": "",
+            "url": "/2022/containers-meet-hpc",
+            
+            
+            
+            "tags": ["containers","hpc"],
+            
+            "date_published": "2022-01-23T00:00:00+00:00",
+            "date_modified": "2022-01-23T00:00:00+00:00",
+            
+                "author":  {
+                "name": "Nicholas",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "/2022/why-the-internet-of-things-needs-docker-containers",
+            "title": "Why the Internet of Things Needs Docker Containers",
+            "summary": "Docker containers offer valuable advantages for developers building IoT software. The question is why more IoT platforms aren't already running on Docker.",
+            "content_text": "",
+            "content_html": "",
+            "url": "/2022/why-the-internet-of-things-needs-docker-containers",
+            
+            
+            
+            "tags": ["containers","iot"],
+            
+            "date_published": "2022-01-22T00:00:00+00:00",
+            "date_modified": "2022-01-22T00:00:00+00:00",
+            
+                "author":  {
+                "name": "Nicholas",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "/2022/everything-you-need-to-know-about-github-actions-environments",
+            "title": "EVERYTHING you NEED to know about GitHub Actions Environments",
+            "summary": "The features everyone was waiting for in GitHub Actions are finally here: Environments and Manual App...",
+            "content_text": "",
+            "content_html": "",
+            "url": "/2022/everything-you-need-to-know-about-github-actions-environments",
+            
+            
+            
+            "tags": ["devops","github-actions"],
+            
+            "date_published": "2022-01-21T00:00:00+00:00",
+            "date_modified": "2022-01-21T00:00:00+00:00",
+            
+                "author":  {
+                "name": "Nicholas",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "/2022/github-logseqlogseq-a-privacyfirst-opensource-platform-for-knowledge-management-and-collaboration-desktop",
+            "title": "GitHub - logseq/logseq: A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap",
+            "summary": "A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadma...",
+            "content_text": "",
+            "content_html": "",
+            "url": "/2022/github-logseqlogseq-a-privacyfirst-opensource-platform-for-knowledge-management-and-collaboration-desktop",
+            
+            
+            
+            
+            
+            "date_published": "2022-01-20T00:00:00+00:00",
+            "date_modified": "2022-01-20T00:00:00+00:00",
+            
+                "author":  {
+                "name": "Nicholas",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        }
+    
+    ]
+}
